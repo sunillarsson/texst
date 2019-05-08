@@ -1,0 +1,218 @@
+#landing {
+  height: calc(100vh + 5px);
+  background-image: url("https://images.pexels.com/photos/355770/pexels-photo-355770.jpeg?cs=srgb&dl=adventure-alpine-background-355770.jpg&fm=jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: -70px;
+  z-index: -1;
+}
+
+#landingMan {
+  height: calc(100vh + 5px);
+  background-image: url("https://images.unsplash.com/photo-1556740415-abe382f05dac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: -70px;
+  z-index: -1;
+}
+#landingSim {
+  height: calc(100vh + 5px);
+  background-image: url("https://images.unsplash.com/reserve/0Ad9yHP8QdCYBUqKxoiw_Stockholmsnow.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=2061&q=80");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: -70px;
+  z-index: -1;
+}
+#landingStart {
+  height: calc(100vh + 5px);
+  background-image: url("https://images.unsplash.com/photo-1496517463163-3550265405c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: -70px;
+  z-index: -1;
+}
+
+span.card-title {
+  line-height: 25px;
+  padding-bottom: 14px !important;
+}
+
+a.subtitle.bold {
+  color: orange;
+}
+.subtitle {
+  font-size: 16px;
+  line-height: 0px;
+}
+.bold {
+  font-weight: bold;
+}
+
+#landingMiddle {
+  height: 960px;
+  background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2013/03/23/59196/6ab43f13509dbda7a30ede94dbd0ca65.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  z-index: -2;
+}
+.color-overlay {
+  height: 960px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: -1;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 3;
+}
+
+.content-height {
+  height: calc(100vh - 115px);
+}
+
+.footer {
+  height: 5vh;
+  background-color: rgb(29, 29, 29);
+  position: absolute;
+
+  width: 100%;
+  z-index: 10;
+}
+
+.footer-container {
+  position: relative;
+  height: 100vh;
+}
+
+.card-btn {
+  float: right;
+}
+
+span.card-title {
+  width: 100%;
+}
+
+#navItem:hover {
+  background-color: lightgray;
+}
+#mainText {
+  margin-top: 20vh;
+}
+
+#paralaxText {
+  margin: 0 auto;
+  text-align: center;
+  width: 400px;
+  color: black;
+  z-index: 2;
+}
+
+#paralaxBtn {
+  margin-top: 30px;
+  border: 2px solid darkgray;
+  color: darkgrey;
+}
+
+.add-height {
+  height: 100px;
+}
+
+.logo {
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+}
+
+.margin-half {
+  margin-top: 50px;
+}
+
+.top {
+  padding-top: 100px;
+
+  margin: 0;
+}
+
+.top-half {
+  padding-top: 50px;
+
+  margin: 0;
+}
+
+.about {
+  background-color: gray;
+}
+
+.leadership {
+  background-color: white;
+}
+
+.offer {
+  background-color: gainsboro;
+}
+
+.team {
+  background-color: whitesmoke;
+}
+
+.bottom {
+  padding-bottom: 150px;
+}
+
+.bottom-half {
+  padding-bottom: 50px;
+}
+
+.white-text {
+  color: white;
+}
+
+.sidenav li > a {
+  padding-left: 16px !important;
+}
+
+#container-text {
+  margin: 0 auto;
+  text-align: left;
+  max-width: 640px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.card-size {
+  height: 500px;
+  width: 80%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.linkInline a {
+  color: whitesmoke;
+}
+.navbutton {
+  margin: 0;
+}
+
+.link a {
+  color: gray;
+}
+
+.cardbasic {
+  height: 170px;
+}
+.linkHover:hover {
+  color: orange;
+}
